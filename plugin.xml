@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+  <name>fileNamesAsBaseForTitles</name>
+  <type>edit</type>
+  <author>Francesco Martini</author>
+  <description>Add/modify title tags of xhtml selected files, using the
+  filename as a base and a custom regex to filter it.</description>
+  <engine>python3.4</engine>
+  <version>0.1.0</version>
+  <autostart>true</autostart>
+  <autoclose>false</autoclose>
+  <oslist>osx,unx,win</oslist>
+</plugin>
